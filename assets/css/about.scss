@@ -50,5 +50,10 @@
         &__image {
             order: -1;
         }
+
+        &__description {
+            font-size: var(--fs-sm);
+            // line-height: var(--lh-sm);
+        }
     }
 }

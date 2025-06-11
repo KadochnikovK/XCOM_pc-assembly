@@ -42,4 +42,7 @@
   .about__image {
     order: -1;
   }
+  .about__description {
+    font-size: var(--fs-sm);
+  }
 }
