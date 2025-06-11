@@ -18,6 +18,14 @@ h3,
 p {
   padding: 0;
   margin: 0;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  word-break: break-word;
+  line-break: auto;
 }
 
 a {
